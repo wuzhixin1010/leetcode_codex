@@ -1,0 +1,18 @@
+{
+  "name": "markdown-cpp-preview",
+  "version": "0.1.0",
+  "description": "Render Markdown files as local HTML previews with syntax highlighting for C++ code blocks.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Markdown Cpp Preview",
+    "shortDescription": "Preview Markdown with highlighted C++ code.",
+    "longDescription": "Creates a local HTML preview for Markdown files and highlights fenced C++ code blocks without changing the source Markdown.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Render this Markdown file as a local HTML preview with C++ syntax highlighting."
+  }
+}
